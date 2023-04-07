@@ -7,36 +7,31 @@ This repository showcases my R programming skills in probability and statistics.
 ## Exercises
 This repository also includes exercises covering the following topics:
 
-Probability theory
+1. Probability theory
 
-Descriptive statistics
+2. Descriptive statistics
 
-Inferential statistics
+3. Inferential statistics
 
-Hypothesis testing
+4. Hypothesis testing
 
-Regression analysis
-
-Time series analysis
+5. Regression analysis
 
 ## Installation
 To run the R code in this repository, you will need to have R and RStudio installed on your computer. You can download the latest versions of R and RStudio from their official websites.
 
 You will also need to install the following R packages:
 
-tidyverse
+1. tidyverse
 
-ggplot2
+2. ggplot2
 
-dplyr
+3. dplyr
 
-readr
+4. readr
 
-reshape2
+5. caret
 
-caret
-
-forecast
 
 
 You can install these packages by running the following command in your R console:
