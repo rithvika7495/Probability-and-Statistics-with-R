@@ -16,7 +16,7 @@ This repository also includes exercises covering the following topics:
 4. Hypothesis testing
 
 5. Regression analysis
-6. Time series analysis
+
 
 ## Installation
 To run the R code in this repository, you will need to have R and RStudio installed on your computer. You can download the latest versions of R and RStudio from their official websites.
@@ -27,11 +27,7 @@ You will also need to install the following R packages:
 
 2. ggplot2
 
-3. dplyr
-
-4. readr
-
-5. caret
+3. caret
 
 
 
