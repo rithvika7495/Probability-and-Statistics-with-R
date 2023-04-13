@@ -1,4 +1,4 @@
-# Probability-and-Statistics-with-R
+# Probability and Statistics with R
 A collection of projects and exercises related to probability and statistics, implemented in R.
 
 ## Introduction
